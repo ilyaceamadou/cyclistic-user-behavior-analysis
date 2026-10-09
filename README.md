@@ -121,7 +121,7 @@ This interactive dashboard compares casual riders and annual members across key 
 ## Project Structure
 
 ``` text
-Cyclistic-capstone/
+Cyclistic-user-behavior-analysis/
 ├── README.md
 ├── 03_SQL/                      # SQL scripts for validation, cleaning, transformation, analysis
 ├── 04_Tableau/
