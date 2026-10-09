@@ -34,26 +34,19 @@ validation rule, the analytical dataset contained **5,877,252 rides**.
 
 ## Tools and Technologies
 
--   **SQLite** --- database engine
--   **SQL** --- data consolidation, quality checks, cleaning,
-    transformation, and analysis
--   **DBeaver Community** --- SQL development environment
--   **Tableau** --- data visualization and dashboard communication
--   **GitHub** --- project documentation and portfolio presentation
-
+- **SQLite:** Database engine
+- **SQL:** Data consolidation, quality checks, cleaning, transformation, and analysis
+- **DBeaver Community:** SQL development environment
+- **Tableau:** Data visualization and dashboard communication
+- **GitHub:** Project documentation and portfolio presentation
 ## Methodology
 
-1.  **Ask** --- define the business problem, stakeholders, analytical
-    questions, and metrics.
-2.  **Prepare** --- obtain and organize the source data and assess its
-    quality.
-3.  **Process** --- validate records, create a clean analytical dataset,
-    and derive fields for ride duration, day of week, month, and hour.
-4.  **Analyze** --- compare ride volume and usage patterns by customer
-    type.
-5.  **Share** --- communicate the findings through a Tableau dashboard.
-6.  **Act** --- propose testable marketing recommendations and define
-    success metrics.
+1. **Ask:** Define the business problem, stakeholders, analytical questions, and metrics.
+2. **Prepare:** Obtain and organize the source data and assess its quality.
+3. **Process:** Validate records, create a clean analytical dataset, and derive fields for ride duration, day of week, month, and hour.
+4. **Analyze:** Compare ride volume and usage patterns by customer type.
+5. **Share:** Communicate the findings through a Tableau dashboard.
+6. **Act:** Propose testable marketing recommendations and define success metrics.
 
 ## Data Preparation and Cleaning
 
