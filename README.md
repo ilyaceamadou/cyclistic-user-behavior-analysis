@@ -109,16 +109,14 @@ itself prove that a specific campaign will cause conversion.
 
 ## Tableau Dashboard
 
-**Dashboard title:** Cyclistic User Behavior Dashboard\
-**Subtitle:** Comparing Casual Riders and Annual Members --- September
-2021 to August 2022
+**Dashboard:** Cyclistic User Behavior Dashboard
 
-The dashboard is designed to show: - KPI overview - Average ride
-duration by customer type - Ride volume by day of week - Ride volume by
-hour - Monthly ride volume - Bike-type usage
+**Period:** September 2021 – August 2022
 
-**Tableau Public link:** Add the published dashboard URL here after
-publication.
+This interactive dashboard compares casual riders and annual members across key usage indicators, including ride volume, average ride duration, day-of-week patterns, hourly usage, monthly trends, and bike-type preferences.
+
+**View the interactive dashboard on Tableau Public:**  
+[Open the Cyclistic User Behavior Dashboard](https://public.tableau.com/app/profile/ilyace.amadou/viz/CyclisticUserBehaviorDashboard/CyclisticUserBehaviorDashboard?publish=yes)
 
 ## Project Structure
 
