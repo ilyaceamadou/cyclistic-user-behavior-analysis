@@ -120,20 +120,13 @@ This interactive dashboard compares casual riders and annual members across key 
 
 ## Project Structure
 
-``` text
+``` 
 cyclistic-user-behavior-analysis/
 ├── README.md
-├── 03_SQL/                      # SQL scripts for validation, cleaning, transformation, analysis
-├── 04_Tableau/
-│   └── Cyclistic_Dashboard.twbx # Packaged Tableau workbook
-└── 05_Documentation/
-    └── Cyclistic_Case_Study.docx
+└── 03_SQL/  # SQL scripts for validation, cleaning, transformation, and analysis
 ```
 
-The folder tree is a suggested public repository structure. Only include
-files that are actually present in the published repository. Do not
-upload large raw data or the local SQLite database by default; publish
-the SQL scripts, documentation, and relevant Tableau deliverables.
+The Tableau workbook and case study document are maintained locally, while the final dashboard is available through the Tableau Public link above. The original datasets and local SQLite database are not included in this repository.
 
 ## Skills Demonstrated
 
